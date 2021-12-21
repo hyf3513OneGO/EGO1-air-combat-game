@@ -1,0 +1,5 @@
+*.css linguist-language=verilog
+*.less linguist-language=verilog
+*.js linguist-language=verilog
+*.html linguist-language=verilog
+*.xml linguist-language=verilog
